@@ -1,7 +1,7 @@
 <h2 align="centre">ŁGcY・AŁEX Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/55202a2a5dd038bdbebea.jpg">
+  <img src="lgcyalex12.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
