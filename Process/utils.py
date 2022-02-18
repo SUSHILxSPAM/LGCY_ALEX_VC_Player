@@ -111,7 +111,7 @@ async def stream_end_handler(_, u: Update):
         print(chat_id)
         op = await skip_current_song(chat_id)
         if op==1:
-           await bot.send_message(chat_id, "**𝙏𝙝𝙚 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 𝙃𝘼𝙎 𝘿𝙄𝙎𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 𝙁𝙍𝙊𝙈 𝙑𝙄𝘿𝙀𝙊 𝘾𝙃𝘼𝙏 🤗........**")
+           await bot.send_message(chat_id, "**𝙏𝙃𝙀 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 𝙃𝘼𝙎 𝘿𝙄𝙎𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 𝙁𝙍𝙊𝙈 𝙑𝙄𝘿𝙀𝙊 𝘾𝙃𝘼𝙏 🤗........**")
         elif op==2:
            await bot.send_message(chat_id, "**⚠️𝗔𝗡 𝗘𝗥𝗥𝗢𝗥 𝗢𝗖𝗖𝗨𝗥𝗥𝗘𝗗⚠️**\n\n» **Clearing** __Queues__ **and leaving video chat.**")
         else:
