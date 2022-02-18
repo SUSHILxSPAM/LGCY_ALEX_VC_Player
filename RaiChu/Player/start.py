@@ -43,7 +43,7 @@ async def start(_, message: Message):
                         "𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚", url="https://t.me/lgcyalex"
                     ),
                     InlineKeyboardButton(
-                        "𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙇𝙞𝙨𝙩🛠", url="https://pastebin.com/06HR3fpM"
+                        "𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙇𝙞𝙨𝙩🛠", url="https://telegra.ph/%C5%81GcYA%C5%81EX-02-18"
                     )
                   ],[
                     InlineKeyboardButton(
