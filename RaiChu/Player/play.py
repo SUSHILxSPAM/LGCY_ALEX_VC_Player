@@ -299,7 +299,7 @@ async def play(c: Client, m: Message):
                     else:
                         try:
                             await suhu.edit(
-                            f"**ŁGcY・ MUSIC Downloader**\n\n**Title**: {title[:22]}\n\n████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
+                            f"**𝙇𝙂𝙘𝙔・𝘼𝙇𝙀𝙓 Downloader**\n\n**Title**: {title[:22]}\n\n████████████100%\n\n**Time Taken**: 00:00 Seconds\n\n**Converting Audio[FFmpeg Process]**"
                         )
                             await call_py.join_group_call(
                                 chat_id,
