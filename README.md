@@ -1,4 +1,4 @@
-<h2 align="centre">Bot duniya Music Player</h2>
+<h2 align="centre">ŁGcY・AŁEX Music Player</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/55202a2a5dd038bdbebea.jpg">
@@ -41,14 +41,15 @@
 <p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/AMANTYA1/RaiChu-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
-# Credits
-- callmusic 
-- PyTgCalls
 
-#### Special Thanks
+
+
+
+
+# Special Thanks
 - [Sunil](https://t.me/Sushil8xop)
 - [Group](https://t.me/Clan8Xofficial)
 
 
 ### Support & Updates 
-<a href="https://t.me/LGCY_OFFICIAL"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/BotDuniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/LGCY_OFFICIAL"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> 
