@@ -1,4 +1,4 @@
-<h2 align="centre">ŁGcY・AŁEX Music Player</h2>
+<h2 align="centre">SUSHIL X MUSIC Music Player</h2>
 
 <p align="center">
   <img src="lgcyalex12.jpg">
